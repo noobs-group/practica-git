@@ -3,6 +3,7 @@
 ## Bienvenidos!
 
 > git init
+[Git Init](init.md)
 
 > git status
 

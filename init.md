@@ -1,0 +1,1 @@
+Por medio de este comando se genera un nuevo repositorio y queda activo para control y seguimiento del codigo.

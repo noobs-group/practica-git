@@ -5,7 +5,7 @@
 > git init
 
 > git status
-
+> [git status](git_status.md)
 > git add blog.md
 
 ```sh
